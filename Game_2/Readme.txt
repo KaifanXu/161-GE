@@ -3,3 +3,4 @@ There are two kinds of enemies, the green one can take two shots before destroye
 for the purple ones. The normal enemies give 10 points of experience, and the advanced will double. 
 If the player gets 50 experience points, he will get one level up and receive one more health point. 
 If the player reaches 5 health points, the game will end and the player wins.
+The player can press ESC during the game for a pause menu.
